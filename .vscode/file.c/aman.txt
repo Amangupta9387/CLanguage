@@ -1,0 +1,3 @@
+ student name :aman
+ student age :18
+student cgpa :9.000000

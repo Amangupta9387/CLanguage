@@ -1,0 +1,1 @@
+printf("the average of number is %f",avg);
